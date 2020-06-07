@@ -25,12 +25,12 @@ Possibilitar a gestão e disponibilização da agenda dos profissionais do salã
 ```
 
 - Endpoints => http://localhost:3333
-  - "/sessions" post with JSON Body
-  - "/users" get
-  - "/users" post with JSON Body
-  - "/users/avatar" patch with image file
-  - "/appointments" get
-  - "/appointments" post with JSON Body
+  - "/sessions" - POST with JSON Body
+  - "/users" - GET
+  - "/users" - POST with JSON Body
+  - "/users/avatar" - PATCH with image file
+  - "/appointments" - GET
+  - "/appointments" - POST with JSON Body
 
 ---
 
