@@ -34,6 +34,7 @@ Possibilitar a gestão e disponibilização da agenda dos profissionais do salã
 
 ---
 
-### 📌 Aulas relacionadas:
+### 📌 - Aulas relacionadas:
 
   - [x] Nível 02 - Iniciando back-end do app
+  - [x] Nível 04 - Arquitetura e testes no Node.js
