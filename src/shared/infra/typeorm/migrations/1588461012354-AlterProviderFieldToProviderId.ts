@@ -4,7 +4,7 @@ import {
   TableColumn,
   TableForeignKey,
 } from 'typeorm';
-import Appointment from '../../models/Appointment';
+// import Appointment from '@modules/appointments/entities/Appointment';
 
 export default class AlterProviderFieldToProviderId1588461012354
   implements MigrationInterface {
