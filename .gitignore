@@ -1,6 +1,7 @@
 #dependencies
 .idea/
 .vscode/
+coverage/
 node_modules/
 build/
 temp/
