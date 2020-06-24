@@ -98,6 +98,7 @@ Possibilitar a gestão e disponibilização da agenda dos profissionais do salã
 - O usuário não pode agendar em um horário que já passou.
 - O usuário não pode agendar serviços com ele mesmo.
 
+
 ---
 
 ### 📌 - Aulas relacionadas:
